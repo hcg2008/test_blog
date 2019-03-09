@@ -4,7 +4,7 @@ Mac 中跟鼠标有关的默认选项有以下三个，不用第三方软件也�
 
 **鼠标双击阈值：**
 
-```defaults read -g com.apple.mouse.doubleClickThreshold```
+```defaults read -g com.apple.mouse.doubleClickThreshold
 
 **鼠标加速度：**
 
