@@ -59,6 +59,7 @@ source/_posts/config-ssh-key-login-linux/hacking.png
 ``` bash
 {% asset_img hacking.png "blogs image" %}
 ```
+
 {% asset_img hexo.png "blogs image" %}
 
 这样图片在文章和首页中可以同时显示
