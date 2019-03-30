@@ -1,6 +1,6 @@
 ---
 title: Mac AppleScript按键对应的键值
-date: 2019-03-29 19:30:00
+date: 2019-03-30 19:30:00
 tags: AppleScript
 ---
 
@@ -14,7 +14,6 @@ end tell
 
 
 ### Complete list of AppleScript key codes
-
 {% asset_img all_key.png "blogs image" %}
 
 ### Return and enter
